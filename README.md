@@ -1,4 +1,4 @@
-<img src="./src/banner/Banner_Header.png">
+<!-- <img src="./src/banner/Banner_Header.png"> -->
 <h1 align="center">Hi 👋, I'm Ray!</h1>
 
 <div align="center">
@@ -26,11 +26,10 @@ Welcome();
 ---
 
 <div align="center">
-  <img src="./src/photo/Profile_Photo.png" width="150" align="right">
+  <!-- <img src="./src/photo/Profile_Photo.png" width="150" align="right"> -->
 </div>
 
-<strong>✨ Hobby:</strong> I usually like to read some books, writing diary, build something on my head, walking around, and absolutely watching anime after stressing out code. <br />
-<strong>🌴 Favorite Anime: </strong>[Hello World](https://hello-world-2019.fandom.com/wiki/Hello_World_(Film))<br />
+<strong>✨ Hobby:</strong> I usually like to read some books, writing diary, build something on my head, walking around, and absolutely watching anime after stressing out code.
 <br />
 <strong>🖥️ Preference OS used: </strong> <br />
 ![Arch](https://img.shields.io/badge/Arch%20Linux-1793D1?logo=arch-linux&logoColor=fff&style=for-the-badge) ![Debian](https://img.shields.io/badge/Debian-D70A53?style=for-the-badge&logo=debian&logoColor=white) ![Windows 11](https://img.shields.io/badge/Windows%2011-%230079d5.svg?style=for-the-badge&logo=Windows%2011&logoColor=white)
@@ -42,7 +41,7 @@ Welcome();
 ---
 
 <h2>Tech Stack Language</h2>
-<img src="./src/banner/Programming_Language_Banner.png">
+<!-- <img src="./src/banner/Programming_Language_Banner.png"> -->
 <h3 align="center">Favorited</h3>
 
 <div align="center">
@@ -60,7 +59,7 @@ Welcome();
 </div>
 
 <h2>Framework & Library</h2>
-<img src="./src/banner/Framework_Banner.png">
+<!-- <img src="./src/banner/Framework_Banner.png"> -->
 <h3 align="center">Favorited</h3>
 
 <div align="center">
@@ -81,11 +80,7 @@ Welcome();
 <h3 align="center">Github Stats</h3>
 <div align="center">
 
-![oaxylf's GitHub stats](https://github-readme-stats.vercel.app/api?username=oaxylf&show_icons=true&theme=maroongold) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=oaxylf&layout=compact&theme=maroongold) 
-
-<h3 align="center">Progress</h3>
-
-[![GitHub Streak](https://streak-stats.demolab.com/?user=oaxylf&theme=maroongold)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=zorayume&theme=maroongold)](https://git.io/streak-stats)
 
 ---
 
