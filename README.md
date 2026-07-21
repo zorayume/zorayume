@@ -18,7 +18,7 @@ Welcome();
 ```
 
 <div align="right">
-  <img src="https://spotify-recently-played-readme.vercel.app/api?user=xxxwtlos0fkc4xirtsp2dwchu&count=3" align="left"/>
+  <img src="https://spotify-recently-played-readme.vercel.app/api?user=xxxwtlos0fkc4xirtsp2dwchu&count=4" align="left"/>
 
   <img src="https://lanyard.cnrad.dev/api/887565456880324668?idleMessage=There%27s+nothing+to+do+right+now." align="center">
 </div>
