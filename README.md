@@ -1,94 +1,133 @@
-<!-- <img src="./src/banner/Banner_Header.png"> -->
-<h1 align="center">Hi 👋, I'm Ray!</h1>
-
-<div align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1500&center=true&vCenter=true&width=500&lines=Hello!+Konnichiwa!;I'm+a+Code+Enthusiast+from+Indonesia;Scroll+down+to+see+more+about+me!" alt="Typing SVG" /></a>
-</div>
-
-```js
-function Welcome() {
-    const greetings = "Greetings! I'm Ray. I am ";
-    let age = 18;
-    let life_now = ". Currently I am having a life on college!";
-
-    console.log(greetings, age, life_now);
-}
-
-Welcome();
-```
-
-<div align="right">
-  <img src="https://spotify-recently-played-readme.vercel.app/api?user=xxxwtlos0fkc4xirtsp2dwchu&count=4" align="left"/>
-
-  <img src="https://lanyard.cnrad.dev/api/887565456880324668?idleMessage=There%27s+nothing+to+do+right+now." align="center">
-</div>
-
----
-
-<div align="center">
-  <!-- <img src="./src/photo/Profile_Photo.png" width="150" align="right"> -->
-</div>
-
-<strong>✨ Hobby:</strong> I usually like to read some books, writing diary, build something on my head, walking around, and absolutely watching anime after stressing out code.
-<br />
-<strong>🖥️ Preference OS used: </strong> <br />
-![Arch](https://img.shields.io/badge/Arch%20Linux-1793D1?logo=arch-linux&logoColor=fff&style=for-the-badge) ![Debian](https://img.shields.io/badge/Debian-D70A53?style=for-the-badge&logo=debian&logoColor=white) ![Windows 11](https://img.shields.io/badge/Windows%2011-%230079d5.svg?style=for-the-badge&logo=Windows%2011&logoColor=white)
-<br />
-<br />
-![[](https://komarev.com/ghpvc/?username=oaxylf)](https://komarev.com/ghpvc/?username=oaxylf&style=for-the-badge&label=PROFILE+VIEWS)
-<br />
+<table>
+  <tr>
+    <td width="55%" valign="top">
+      <img src="./assets/github-profile-banner.png" alt="Premium profile banner" width="100%" />
+    </td>
+    <td width="45%" valign="middle">
+      <h1 align="center">Hi there, I'm Ray 👋</h1>
+      <p align="center">
+        <strong>DSA Enjoyer • Discord Bot Builder • Curious Web3 Students</strong>
+      </p>
+      <p align="center">
+        I build practical and easy, polished experiences with curiosity, code, and a strong love for learning.
+      </p>
+      <div align="center">
+        <a href="https://git.io/typing-svg">
+          <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3000&pause=1200&center=true&vCenter=true&color=FFFFFF&width=680&lines=Hello!+Konnichiwa!;I'm+Ray+from+Indonesia;I+build+cool+things+with+code;Welcome+to+my+profile!" alt="Typing SVG" />
+        </a>
+      </div>
+      <p align="center">
+        <a href="https://github.com/zorayume"><img src="https://img.shields.io/badge/GitHub-010101?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+        <a href="https://discord.com/users/887565456880324668/"><img src="https://img.shields.io/badge/Discord-010101?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
+        <a href="https://x.com/zorayume"><img src="https://img.shields.io/badge/X-010101?style=for-the-badge&logo=x&logoColor=white" alt="X" /></a>
+        <a href="https://t.me/zorayume"><img src="https://img.shields.io/badge/Telegram-010101?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" /></a>
+      </p>
+    </td>
+  </tr>
+</table>
 
 ---
 
-<h2>Tech Stack Language</h2>
-<!-- <img src="./src/banner/Programming_Language_Banner.png"> -->
-<h3 align="center">Favorited</h3>
+## ✨ About Me
 
-<div align="center">
+I’m a builder at heart who likes turning ideas into polished experiences. My workflow blends problem-solving, clean architecture, and a strong curiosity for expanding my stack.
 
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
-</div>
+- 💡 Hobbies: reading, journaling, exploring new tech, walking, and watching anime after a long coding session!
+- 🌱 Currently learning: More Javascript, Solidity, and AI/ML.
+- 🖥️ Preferred environments: Arch Linux, Debian, and Windows 11
 
-<h3 align="center">Currently Learning</h3>
-<div align="center">
 
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Solidity](https://img.shields.io/badge/Solidity-%23363636.svg?style=for-the-badge&logo=solidity&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
-
----
-
-</div>
-
-<h2>Framework & Library</h2>
-<!-- <img src="./src/banner/Framework_Banner.png"> -->
-<h3 align="center">Favorited</h3>
-
-<div align="center">
-
-![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Bun](https://img.shields.io/badge/Bun-%23000000.svg?style=for-the-badge&logo=bun&logoColor=white)
-</div>
-
-<h3 align="center">Currently Learning</h3>
-<div align="center">
-
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Query](https://img.shields.io/badge/-React%20Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white) ![Threejs](https://img.shields.io/badge/threejs-black?style=for-the-badge&logo=three.js&logoColor=white) ![Web3.js](https://img.shields.io/badge/web3.js-F16822?style=for-the-badge&logo=web3.js&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
+<p align="center">
+  <img src="https://img.shields.io/badge/Arch%20Linux-010101?style=for-the-badge&logo=arch-linux&logoColor=white" alt="Arch Linux" />
+  <img src="https://img.shields.io/badge/Debian-010101?style=for-the-badge&logo=debian&logoColor=white" alt="Debian" />
+  <img src="https://img.shields.io/badge/Windows%2011-%23010101.svg?style=for-the-badge&logo=Windows%2011&logoColor=white" alt="Windows 11" />
+</p>
 
 ---
 
-</div>
+## 🧠 Tech Stack
 
-<h2>Achievements</h2>
-<h3 align="center">Github Stats</h3>
-<div align="center">
+### Languages
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=zorayume&theme=maroongold)](https://git.io/streak-stats)
+<p align="center">
+  <img src="https://img.shields.io/badge/HTML5-010101?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-010101?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/JavaScript-010101?style=for-the-badge&logo=javascript&logoColor=white" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/TypeScript-010101?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/Solidity-010101?style=for-the-badge&logo=solidity&logoColor=white" alt="Solidity" />
+  <img src="https://img.shields.io/badge/Python-010101?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+</p>
+
+### Frameworks & Libraries
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Express.js-010101?style=for-the-badge&logo=express&logoColor=white" alt="Express.js" />
+  <img src="https://img.shields.io/badge/Node.js-010101?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/NPM-010101?style=for-the-badge&logo=npm&logoColor=white" alt="NPM" />
+  <img src="https://img.shields.io/badge/Next.js-010101?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-010101?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
+  <img src="https://img.shields.io/badge/Bun-010101?style=for-the-badge&logo=bun&logoColor=white" alt="Bun" />
+</p>
+
+### Currently Exploring
+
+<p align="center">
+  <img src="https://img.shields.io/badge/React-010101?style=for-the-badge&logo=react&logoColor=white" alt="React" />
+  <img src="https://img.shields.io/badge/React_Query-010101?style=for-the-badge&logo=react-query&logoColor=white" alt="React Query" />
+  <img src="https://img.shields.io/badge/React_Router-010101?style=for-the-badge&logo=react-router&logoColor=white" alt="React Router" />
+  <img src="https://img.shields.io/badge/Sass-010101?style=for-the-badge&logo=sass&logoColor=white" alt="Sass" />
+  <img src="https://img.shields.io/badge/Three.js-010101?style=for-the-badge&logo=three.js&logoColor=white" alt="Three.js" />
+  <img src="https://img.shields.io/badge/Web3.js-010101?style=for-the-badge&logo=web3.js&logoColor=white" alt="Web3.js" />
+  <img src="https://img.shields.io/badge/Django-010101?style=for-the-badge&logo=django&logoColor=white" alt="Django" />
+  <img src="https://img.shields.io/badge/Flask-010101?style=for-the-badge&logo=flask&logoColor=white" alt="Flask" />
+</p>
 
 ---
 
-</div>
+## 🚀 Project Ongoing
 
-<h2>Social Media</h2>
-<div align="center">
+<table>
+  <tr>
+    <td><strong>Project</strong></td>
+    <td><strong>Focus</strong></td>
+    <td><strong>Details</strong></td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/zorayume/SerenaCrypt">SerenaCrypt</a></td>
+    <td>Discord Bot</td>
+    <td>Roleplays the web3 simple ecosystem, providing the best usage.</td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/zorayume/Sorafi">Sorafi</a></td>
+    <td>Minecraft Utility Mod</td>
+    <td>A mod that enchance gameplay, displays a lot of customizable HUDs.</td>
+  </tr>
+</table>
 
-<a href="https://discord.com/users/887565456880324668/">![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)</a> <a href="https://x.com/zorayume">![X](https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white)</a> <a href="https://t.me/zorayume">![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)</a> <a href="https://www.youtube.com/@zorayume">![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)</a> <a href="https://instagram.com/zorayume.dev">![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)</a> <a href="https://tiktok.com/@zorayume.dev">![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?style=for-the-badge&logo=TikTok&logoColor=white)</a> <a href="https://facebook.com/zorayume.dev">![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)</a>
+---
 
-</div>
+## 📊 GitHub Activity
+
+<p align="center">
+  <a href="https://git.io/streak-stats">
+    <img src="https://streak-stats.demolab.com/?user=zorayume&theme=dark" alt="GitHub Streak" />
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=zorayume&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile views" />
+</p>
+
+---
+
+## 🔗 Social Links
+
+<p align="center">
+  <a href="https://discord.com/users/887565456880324668/"><img src="https://img.shields.io/badge/Discord-010101?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
+  <a href="https://x.com/zorayume"><img src="https://img.shields.io/badge/X-010101?style=for-the-badge&logo=x&logoColor=white" alt="X" /></a>
+  <a href="https://t.me/zorayume"><img src="https://img.shields.io/badge/Telegram-010101?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" /></a>
+  <a href="https://www.youtube.com/@zorayume"><img src="https://img.shields.io/badge/YouTube-010101?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" /></a>
+  <a href="https://instagram.com/zorayume.dev"><img src="https://img.shields.io/badge/Instagram-010101?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
+  <a href="https://tiktok.com/@zorayume.dev"><img src="https://img.shields.io/badge/TikTok-010101?style=for-the-badge&logo=tiktok&logoColor=white" alt="TikTok" /></a>
+  <a href="https://facebook.com/zorayume.dev"><img src="https://img.shields.io/badge/Facebook-010101?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" /></a>
+</p>
