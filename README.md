@@ -2,6 +2,11 @@
   <tr>
     <td width="55%" valign="top">
       <img src="./assets/github-profile-banner.png" alt="Premium profile banner" width="100%" />
+      <div align="center">
+        <a href="https://git.io/typing-svg">
+          <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3000&pause=1200&center=true&vCenter=true&color=FFFFFF&width=680&lines=Hello!+Konnichiwa!;I'm+Ray+from+Indonesia;I+build+cool+things+with+code;Welcome+to+my+profile!" alt="Typing SVG" />
+        </a>
+      </div>
     </td>
     <td width="45%" valign="middle">
       <h1 align="center">Hi there, I'm Ray 👋</h1>
@@ -11,11 +16,6 @@
       <p align="center">
         I build practical and easy, polished experiences with curiosity, code, and a strong love for learning.
       </p>
-      <div align="center">
-        <a href="https://git.io/typing-svg">
-          <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3000&pause=1200&center=true&vCenter=true&color=FFFFFF&width=680&lines=Hello!+Konnichiwa!;I'm+Ray+from+Indonesia;I+build+cool+things+with+code;Welcome+to+my+profile!" alt="Typing SVG" />
-        </a>
-      </div>
       <p align="center">
         <a href="https://github.com/zorayume"><img src="https://img.shields.io/badge/GitHub-010101?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
         <a href="https://discord.com/users/887565456880324668/"><img src="https://img.shields.io/badge/Discord-010101?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
@@ -25,6 +25,22 @@
     </td>
   </tr>
 </table>
+
+---
+
+<p align="center">
+  <img
+    src="https://spotify-recently-played-readme.vercel.app/api?user=xxxwtlos0fkc4xirtsp2dwchu&count=3"
+    alt="Spotify"
+    width="400"
+  />
+ &nbsp
+  <img
+    src="https://lanyard.cnrad.dev/api/887565456880324668?idleMessage=There's+nothing+to+do+right+now."
+    alt="Discord Status"
+    width="400"
+  />
+</p>
 
 ---
 
