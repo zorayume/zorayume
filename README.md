@@ -61,6 +61,15 @@ I’m a builder at heart who likes turning ideas into polished experiences. My w
 
 ---
 
+### ✍️ Random Dev Quote
+<p align="center">
+  <a href="https://quotes-github-readme.vercel.app/">
+    <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Random Dev Quote" />
+  </a>
+</p>
+
+---
+
 ## 🧠 Tech Stack
 
 ### Languages
@@ -127,6 +136,12 @@ I’m a builder at heart who likes turning ideas into polished experiences. My w
 <p align="center">
   <a href="https://git.io/streak-stats">
     <img src="https://streak-stats.demolab.com/?user=zorayume&theme=dark" alt="GitHub Streak" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github-readme-stats.shion.dev/">
+    <img src="https://github-readme-stats.shion.dev/api?username=Zorayume&theme=dark&hide_border=false&include_all_commits=true&count_private=true" alt="Github stats" />
   </a>
 </p>
 
