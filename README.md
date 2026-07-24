@@ -1,30 +1,23 @@
-<table>
-  <tr>
-    <td width="55%" valign="top">
-      <img src="./assets/github-profile-banner.png" alt="Premium profile banner" width="100%" />
-      <div align="center">
-        <a href="https://git.io/typing-svg">
-          <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3000&pause=1200&center=true&vCenter=true&color=FFFFFF&width=680&lines=Hello!+Konnichiwa!;I'm+Ray+from+Indonesia;I+build+cool+things+with+code;Welcome+to+my+profile!" alt="Typing SVG" />
-        </a>
-      </div>
-    </td>
-    <td width="45%" valign="middle">
-      <h1 align="center">Hi there, I'm Ray 👋</h1>
-      <p align="center">
-        <strong>DSA Enjoyer • Discord Bot Builder • Curious Web3 Students</strong>
-      </p>
-      <p align="center">
-        I build practical and easy, polished experiences with curiosity, code, and a strong love for learning.
-      </p>
-      <p align="center">
-        <a href="https://github.com/zorayume"><img src="https://img.shields.io/badge/GitHub-010101?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
-        <a href="https://discord.com/users/887565456880324668/"><img src="https://img.shields.io/badge/Discord-010101?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
-        <a href="https://x.com/zorayume"><img src="https://img.shields.io/badge/X-010101?style=for-the-badge&logo=x&logoColor=white" alt="X" /></a>
-        <a href="https://t.me/zorayume"><img src="https://img.shields.io/badge/Telegram-010101?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" /></a>
-      </p>
-    </td>
-  </tr>
-</table>
+<img src="./assets/github-profile-banner.png" alt="Premium profile banner" width="100%" />
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3000&pause=1200&center=true&vCenter=true&color=FFFFFF&width=680&lines=Hello!+Konnichiwa!;I'm+Ray+from+Indonesia;I+build+cool+things+with+code;Welcome+to+my+profile!" alt="Typing SVG" />
+  </a>
+</div>
+
+<h1 align="center">Hi there, I'm Ray 👋</h1>
+  <p align="center">
+    <strong>DSA Enjoyer • Discord Bot Builder • Curious Web3 Students</strong>
+  </p>
+  <p align="center">
+    I build practical and easy, polished experiences with curiosity, code, and a strong love for learning.
+  </p>
+  <p align="center">
+    <a href="https://github.com/zorayume"><img src="https://img.shields.io/badge/GitHub-010101?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+    <a href="https://discord.com/users/887565456880324668/"><img src="https://img.shields.io/badge/Discord-010101?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
+    <a href="https://x.com/zorayume"><img src="https://img.shields.io/badge/X-010101?style=for-the-badge&logo=x&logoColor=white" alt="X" /></a>
+    <a href="https://t.me/zorayume"><img src="https://img.shields.io/badge/Telegram-010101?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" /></a>
+  </p>
 
 ---
 
