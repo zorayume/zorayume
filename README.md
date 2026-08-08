@@ -43,7 +43,7 @@ I’m a builder at heart who likes turning ideas into polished experiences. My w
 
 - 💡 Hobbies: reading, journaling, exploring new tech, walking, and watching anime after a long coding session!
 - 🌱 Currently learning: More Javascript, Solidity, and AI/ML.
-- 🖥️ Preferred environments: Arch Linux, Debian, and Windows 11
+- 🖥️ Preferred environments: Fedora Linux, Arch Linux, Debian, and Windows 11
 
 
 <p align="center">
