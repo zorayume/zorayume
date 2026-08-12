@@ -43,12 +43,11 @@ I’m a builder at heart who likes turning ideas into polished experiences. My w
 
 - 💡 Hobbies: reading, journaling, exploring new tech, walking, and watching anime after a long coding session!
 - 🌱 Currently learning: More Javascript, Solidity, and AI/ML.
-- 🖥️ Preferred environments: Fedora Linux, Arch Linux, Debian, and Windows 11
+- 🖥️ Preferred environments: Fedora Linux, Debian, and Windows 11
 
 
 <p align="center">
   <img src="https://img.shields.io/badge/Fedora-010101?style=for-the-badge&logo=fedora&logoColor=white" alt="Fedora" />
-  <img src="https://img.shields.io/badge/Arch%20Linux-010101?style=for-the-badge&logo=arch-linux&logoColor=white" alt="Arch Linux" />
   <img src="https://img.shields.io/badge/Debian-010101?style=for-the-badge&logo=debian&logoColor=white" alt="Debian" />
   <img src="https://img.shields.io/badge/Windows%2011-%23010101.svg?style=for-the-badge&logo=Windows%2011&logoColor=white" alt="Windows 11" />
 </p>
