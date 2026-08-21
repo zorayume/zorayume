@@ -42,7 +42,7 @@
 I’m a builder at heart who likes turning ideas into polished experiences. My workflow blends problem-solving, clean architecture, and a strong curiosity for expanding my stack.
 
 - 💡 Hobbies: reading, journaling, exploring new tech, walking, and watching anime after a long coding session!
-- 🌱 Currently learning: More Javascript, Solidity, and AI/ML.
+- 🌱 Currently learning: More Javascript, Solidity, DSA, C++, and AI/ML.
 - 🖥️ Preferred environments (OS & Distro): Fedora Linux, Debian, and Windows 11
 
 
