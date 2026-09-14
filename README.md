@@ -89,6 +89,7 @@ I’m a builder at heart who likes turning ideas into polished experiences. My w
   <img src="https://img.shields.io/badge/Solidity-010101?style=for-the-badge&logo=solidity&logoColor=white" alt="Solidity" />
   <img src="https://img.shields.io/badge/typescript-010101?style=for-the-badge&logo=typescript&logoColor=white" alt="Typescript" />
   <img src="https://img.shields.io/badge/React-010101?style=for-the-badge&logo=react&logoColor=white" alt="React" />
+  <img src="https://img.shields.io/badge/Lua-010101?style=for-the-badge&logo=lua&logoColor=white" alt="React" />
 </p>
 
 ---
